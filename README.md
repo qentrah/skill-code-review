@@ -6,6 +6,12 @@ An open Qentrah agent skill for reviewing changes before they reach production.
 
 Surface correctness, maintainability, and operational risks early in review.
 
+## Install
+
+```bash
+npx @qentrah/skills add code-review
+```
+
 ## Structure
 
 - `SKILL.md` — the portable instructions consumed by an AI agent.
